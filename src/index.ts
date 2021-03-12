@@ -1,0 +1,1 @@
+import aa from './aaa.png'
