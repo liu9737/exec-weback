@@ -3,6 +3,6 @@
   "rules": {
     "semi": ["error", "always"],
     "quotes": ["error", "single"]
-  }
-  // "plugins": ["prettier"]
+  },
+  "plugins": ["prettier"]
 }

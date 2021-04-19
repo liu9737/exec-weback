@@ -1,0 +1,10 @@
+{
+  "presets": [
+    [
+      "@babel/preset-env",
+      {
+        "modules": false // 关闭 babel 的模块化转换功能，保留原本的es6模块语法
+      }
+    ]
+  ]
+}
